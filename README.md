@@ -5,6 +5,6 @@ The dataset used contains chemical features for both red and white wines, and th
 
 Dataset link: [Wine Quality](https://www.kaggle.com/datasets/rajyellow46/wine-quality?resource=download)
 
-Project created with the help of Ashwin[https://www.youtube.com/@HackersRealm's] video tutorials.
+Project created with the help of Ashwin's (https://www.youtube.com/@HackersRealm) video tutorials.
 
 Thanks!
